@@ -29,4 +29,5 @@
 ## 参考链接
 
 * https://blog.csdn.net/ITBigGod/article/details/79914534
+* https://www.cnblogs.com/csulennon/p/4482349.html
 * 关于dosfsck：http://man.he.net/?topic=dosfsck&section=all
