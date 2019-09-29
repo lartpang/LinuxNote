@@ -23,7 +23,7 @@
 
   ```shell
   # 这里的目标路径是前面tail中输出的对应的分区位置，类似于`/dev/sdb1`这样的路径
-  sudo dosfsck -v -a /dev/sdb5
+  sudo dosfsck -v -a /dev/sdb1
   ```
 
 ## 参考链接
