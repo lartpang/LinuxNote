@@ -7,6 +7,8 @@
 
 :penguin: Store some notes about linux.
 
+为了更新方便，直接使用issues进行书写整理。
+
 ## 参考网址
 
 * LINUX MAN PAGES ONLINE：http://man.he.net/
