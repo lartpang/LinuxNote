@@ -10,3 +10,5 @@
 ## 参考网址
 
 * LINUX MAN PAGES ONLINE：http://man.he.net/
+* Linux工具快速教程：https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html
+* 鸟哥的linux私房菜：http://cn.linux.vbird.org/
