@@ -7,7 +7,9 @@
 
 :penguin: Store some notes about linux.
 
-为了更新方便，直接使用issues进行书写整理。
+~~为了更新方便，直接使用issues进行书写整理。~~
+
+同样是为了方便，选择了直接在语雀上更新：https://www.yuque.com/lart/linux
 
 ## 参考网址
 
